@@ -2,18 +2,25 @@
 
 Shared functionality for Eureka! Clinical web clients, hosted on https://assets.eurekaclinical.org.
 
-## CSS
+## Version history
+* 1.1: Added a js folder with shared Javascript files.
+* 1.0.1: Added a robots.txt file.
+* 1.0: Initial release.
+
+## File overview
+
+### CSS
 The project includes CSS files that provide shared styling for Eureka! Clinical web clients, including:
 * `eurekaclinical.css`: specifies basic styling.
 
-## Javascript
+### Javascript
 The project includes Javascript files implementing shared functionality for Eureka! Clinical web clients, including:
 * `ec.idletimeout.js`: Logs the user out of the web client after a time period roughly equal to the tomcat session timeout.
 * `ec.bootbar.js`: Provides a hideable notification bar along the top of the screen for messages to users. Depends on Twitter Bootstrap.
 
 Each file is also provided as a minimized file, e.g., `ec.idletimeout.min.js`.
 
-## Images
+### Images
 The project includes logos at various sizes for use in Eureka! Clinical web clients, including for Eureka! Clinical and i2b2.
 
 The project provides three copies of each logo at the following standard sizes:
