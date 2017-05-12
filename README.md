@@ -3,7 +3,8 @@
 Shared functionality for Eureka! Clinical web clients, hosted on https://assets.eurekaclinical.org.
 
 ## CSS
-The project includes CSS files that provide shared styling for Eureka! Clinical web clients.
+The project includes CSS files that provide shared styling for Eureka! Clinical web clients, including:
+* eurekaclinical.css: specifies basic styling.
 
 ## Javascript
 The project includes Javascript files implementing shared functionality for Eureka! Clinical web clients, including:
@@ -13,7 +14,7 @@ The project includes Javascript files implementing shared functionality for Eure
 Each file is also provided as a minimized file, e.g., ec.idletimeout.min.js.
 
 ## Images
-The project includes logos at various sizes for use in Eureka! Clinical web clients.
+The project includes logos at various sizes for use in Eureka! Clinical web clients, including for Eureka! Clinical and i2b2.
 
 The project provides three copies of each logo at the following standard sizes:
 * Small (sm): 48x48 pixels
