@@ -3,9 +3,14 @@
 Shared functionality for Eureka! Clinical web clients, hosted on https://assets.eurekaclinical.org.
 
 ## Version history
-* 1.1: Added a js folder with shared Javascript files.
-* 1.0.1: Added a robots.txt file.
-* 1.0: Initial release.
+### Version 1.1
+Added a js folder with shared Javascript files.
+
+### Version 1.0.1
+Added a robots.txt file.
+
+### Version 1.0
+Initial release.
 
 ## File overview
 
