@@ -35,3 +35,6 @@ The project provides three copies of each logo at the following standard sizes:
 
 ## Deployment
 The [provisioning project](https://github.com/arpost/provisioning) deploys the assets to https://assets.eurekaclinical.org.
+
+## Using in a Eureka! Clinical project
+Multiple releases are hosted on the assets website at any given time. Use the most recent one.
