@@ -1,4 +1,4 @@
-# eurekaclinical-assets
+# Eureka! Clinical Web Client Assets
 
 Shared functionality for Eureka! Clinical web clients, hosted on https://assets.eurekaclinical.org.
 
