@@ -9,7 +9,7 @@ The project includes CSS files that provide shared styling for Eureka! Clinical 
 ## Javascript
 The project includes Javascript files implementing shared functionality for Eureka! Clinical web clients, including:
 * `ec.idletimeout.js`: Logs the user out of the web client after a time period roughly equal to the tomcat session timeout.
-* `ec.bootbar.js`: Provides a hideable notification bar along the top of the screen for messages to users.
+* `ec.bootbar.js`: Provides a hideable notification bar along the top of the screen for messages to users. Depends on Twitter Bbootstrap.
 
 Each file is also provided as a minimized file, e.g., `ec.idletimeout.min.js`.
 
