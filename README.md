@@ -33,3 +33,5 @@ The project provides three copies of each logo at the following standard sizes:
 * Medium (md): 128x128 pixels
 * Large (lg): 256x256 pixels
 
+## Deployment
+The [provisioning project](https://github.com/arpost/provisioning) deploys the assets to https://assets.eurekaclinical.org.
